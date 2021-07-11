@@ -1,0 +1,45 @@
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\FireSharp.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.App.config
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.csprojAssemblyReference.cache
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CopyComplete
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Multicolor.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Forms.Form_House.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Forms.Form_LED.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Forms.Form_Tem.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Forms.Air.resources
+C:\Users\trant\Downloads\Compressed\login and Register System\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Forms.Humidity.resources
